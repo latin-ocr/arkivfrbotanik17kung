@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotanik17kung_0736.png"; bbox 0 0 1861 3246; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 55 116 1008 158">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 55 116 1008 158">
+     <span class='ocr_line' id='line_1_1' title="bbox 55 116 1008 158; baseline 0.004 -4"><span class='ocrx_word' id='word_1_1' title='bbox 55 121 197 156; x_wconf 55' lang='lat' dir='ltr'>ARNIV</span> <span class='ocrx_word' id='word_1_2' title='bbox 228 116 317 156; x_wconf 58' lang='lat'>1³01&lt;</span> <span class='ocrx_word' id='word_1_3' title='bbox 348 122 568 157; x_wconf 57' lang='lat' dir='ltr'>mmmm.</span> <span class='ocrx_word' id='word_1_4' title='bbox 623 123 721 157; x_wconf 69' lang='lat' dir='ltr'>Hand</span> <span class='ocrx_word' id='word_1_5' title='bbox 755 124 805 157; x_wconf 86' lang='lat'>17.</span> <span class='ocrx_word' id='word_1_6' title='bbox 858 125 925 158; x_wconf 66' lang='lat' dir='ltr'>Nso</span> <span class='ocrx_word' id='word_1_7' title='bbox 958 126 1008 158; x_wconf 65' lang='lat'>14.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 305 213 1726 2778">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 305 213 1726 2778">
+     <span class='ocr_line' id='line_1_2' title="bbox 305 213 1726 2778; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 305 213 1726 2778; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 148 2914 1692 2980">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 148 2914 1692 2980">
+     <span class='ocr_line' id='line_1_3' title="bbox 148 2914 1692 2980; baseline 0.014 -31"><span class='ocrx_word' id='word_1_9' title='bbox 148 2914 179 2949; x_wconf 86' lang='lat'>7.</span> <span class='ocrx_word' id='word_1_10' title='bbox 207 2915 407 2954; x_wconf 81' lang='lat' dir='ltr'>Fontinalis</span> <span class='ocrx_word' id='word_1_11' title='bbox 434 2922 670 2966; x_wconf 83' lang='lat' dir='ltr'>antipyretica</span> <span class='ocrx_word' id='word_1_12' title='bbox 697 2935 769 2960; x_wconf 81' lang='lat' dir='ltr'><strong>var.</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 788 2928 934 2971; x_wconf 80' lang='lat' dir='ltr'>gracilis</span> <span class='ocrx_word' id='word_1_14' title='bbox 960 2928 1118 2974; x_wconf 78' lang='lat' dir='ltr'><strong>(Lindb.)</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1143 2930 1303 2977; x_wconf 82' lang='lat' dir='ltr'><strong>Schimp.</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1330 2933 1610 2980; x_wconf 79' lang='lat' dir='ltr'>Typexernplar.</span> <span class='ocrx_word' id='word_1_17' title='bbox 1635 2934 1692 2971; x_wconf 84' lang='lat' dir='ltr'><em>¹l1.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

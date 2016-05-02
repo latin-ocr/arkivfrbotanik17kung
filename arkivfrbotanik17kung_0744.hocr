@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotanik17kung_0744.png"; bbox 0 0 1948 3180; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 84 77 1033 120">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 84 77 1033 120">
+     <span class='ocr_line' id='line_1_1' title="bbox 84 77 1033 120; baseline -0.005 -1"><span class='ocrx_word' id='word_1_1' title='bbox 84 85 229 120; x_wconf 56' lang='grc' dir='ltr'>,ΗΕΚΝ</span> <span class='ocrx_word' id='word_1_2' title='bbox 261 77 350 118; x_wconf 66' lang='lat' dir='ltr'>FOR</span> <span class='ocrx_word' id='word_1_3' title='bbox 380 82 596 116; x_wconf 27' lang='lat' dir='ltr'>HOTAAMK.</span> <span class='ocrx_word' id='word_1_4' title='bbox 651 81 749 115; x_wconf 60' lang='lat' dir='ltr'>Hand</span> <span class='ocrx_word' id='word_1_5' title='bbox 782 81 832 115; x_wconf 84' lang='lat'>17.</span> <span class='ocrx_word' id='word_1_6' title='bbox 885 81 951 115; x_wconf 74' lang='lat' dir='ltr'>N20</span> <span class='ocrx_word' id='word_1_7' title='bbox 983 81 1033 114; x_wconf 78' lang='lat'>14.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 546 1169 1691 2797">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 546 1169 1691 2797">
+     <span class='ocr_line' id='line_1_2' title="bbox 546 1169 1691 2797; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 546 1169 1691 2797; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 290 2967 1501 3014">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 290 2967 1501 3014">
+     <span class='ocr_line' id='line_1_3' title="bbox 290 2967 1501 3014; baseline 0.001 -13"><span class='ocrx_word' id='word_1_9' title='bbox 290 2968 342 3002; x_wconf 92' lang='grc'>11.</span> <span class='ocrx_word' id='word_1_10' title='bbox 371 2967 569 3002; x_wconf 81' lang='lat' dir='ltr'>Fontinalis</span> <span class='ocrx_word' id='word_1_11' title='bbox 599 2968 813 3013; x_wconf 74' lang='lat' dir='ltr'>Kindbergii</span> <span class='ocrx_word' id='word_1_12' title='bbox 842 2969 928 3005; x_wconf 81' lang='lat' dir='ltr'>Ren.</span> <span class='ocrx_word' id='word_1_13' title='bbox 949 2968 977 3002; x_wconf 74' lang='grc' dir='ltr'>ἃ</span> <span class='ocrx_word' id='word_1_14' title='bbox 1004 2969 1110 3003; x_wconf 84' lang='lat' dir='ltr'>Card.</span> <span class='ocrx_word' id='word_1_15' title='bbox 1138 2969 1416 3014; x_wconf 77' lang='lat' dir='ltr'>Typexemplar.</span> <span class='ocrx_word' id='word_1_16' title='bbox 1445 2967 1501 3002; x_wconf 53' lang='lat' dir='ltr'><em>¹0s1.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotanik17kung_0725.png"; bbox 0 0 1840 3170; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 382 2879 1412 2926">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 382 2879 1412 2926">
+     <span class='ocr_line' id='line_1_1' title="bbox 382 2879 1412 2926; baseline 0 -12"><span class='ocrx_word' id='word_1_1' title='bbox 382 2880 414 2915; x_wconf 86' lang='lat'>2.</span> <span class='ocrx_word' id='word_1_2' title='bbox 441 2880 641 2916; x_wconf 83' lang='lat' dir='ltr'>Fontinalis</span> <span class='ocrx_word' id='word_1_3' title='bbox 668 2882 904 2926; x_wconf 78' lang='lat' dir='ltr'>antipyretica</span> <span class='ocrx_word' id='word_1_4' title='bbox 933 2891 1003 2916; x_wconf 84' lang='lat' dir='ltr'>var.</span> <span class='ocrx_word' id='word_1_5' title='bbox 1022 2881 1188 2925; x_wconf 82' lang='lat' dir='ltr'>alpcstris</span> <span class='ocrx_word' id='word_1_6' title='bbox 1215 2879 1328 2915; x_wconf 87' lang='lat' dir='ltr'>Milde</span> <span class='ocrx_word' id='word_1_7' title='bbox 1359 2879 1412 2914; x_wconf 44' lang='lat'>¹1³1.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 484 954 1727 2767">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 484 954 1727 2767">
+     <span class='ocr_line' id='line_1_2' title="bbox 484 954 1727 2767; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 484 954 1727 2767; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1715 95 1813 129">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1715 95 1813 129">
+     <span class='ocr_line' id='line_1_3' title="bbox 1715 95 1813 129; baseline 0.01 -1"><span class='ocrx_word' id='word_1_9' title='bbox 1715 95 1813 129; x_wconf 81' lang='lat' dir='ltr'><strong>Tavl.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
